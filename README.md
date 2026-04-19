@@ -1,4 +1,4 @@
-# Hi there, I'm Om Girkar 👋
+# Hi there, I'm Om Girkar 
 
 **Developer | Innovator | Co-Founder of ZNOir**
 
@@ -26,7 +26,7 @@ An intelligent blind stick utilizing ultrasonic sensors and haptic feedback to e
 
 ---
 
-### 💻 Technical Arsenal
+### 💻 Technical Skills
 
 **Languages & Frameworks:** `Python` `FastAPI` `HTML/CSS/JS` `C++` `Dart/Flutter` 
 
@@ -39,5 +39,5 @@ An intelligent blind stick utilizing ultrasonic sensors and haptic feedback to e
 ### 🌐 Let's Connect
 
 * **Portfolio:** [omgirkar.me](https://omgirkar.me/)
-* **LinkedIn:** [om-girkar-3a4b341b8](https://www.linkedin.com/in/om-girkar-3a4b341b8/)
+* **LinkedIn:** [om girkar](https://www.linkedin.com/in/om-girkar-3a4b341b8/)
 * **Email:** [om.girkar2@gmail.com](mailto:om.girkar2@gmail.com)
