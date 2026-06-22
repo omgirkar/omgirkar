@@ -2,7 +2,7 @@
 
 **Developer | Innovator | Co-Founder of ZNOir**
 
-I am an 18-year-old developer based in Mumbai, specializing in building intelligent digital ecosystems. My work bridges the gap between software and the physical world, focusing on AI-integrated systems, scalable backend architecture, and autonomous IoT robotics. 
+I am an 19-year-old developer based in Mumbai, specializing in building intelligent digital ecosystems. My work bridges the gap between software and the physical world, focusing on AI-integrated systems, scalable backend architecture, and autonomous IoT robotics. 
 
 I'm scaling operations and web infrastructure for [ZNOir](#), a sustainable clothing rental platform I co-founded to combat fast-fashion waste.
 
